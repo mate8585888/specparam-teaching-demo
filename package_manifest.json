@@ -1,0 +1,13 @@
+{
+  "package_name": "SpecParam教学演示包_v1.0",
+  "version": "1.0",
+  "main_entry": "02_run_set_demo.bat",
+  "installer": "01_install.bat",
+  "builtin_demo": "03_run_builtin_demo.bat",
+  "python_files": [
+    "app/fooof_builtin_demo.py",
+    "app/check_environment.py",
+    "app/fooof_set_teaching.py",
+    "advanced/完整研究入门版_fooof_set_demo.py"
+  ]
+}

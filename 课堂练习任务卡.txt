@@ -1,0 +1,17 @@
+SpecParam教学练习任务卡
+======================
+
+完成以下6步即可：
+
+□ 1. 双击01_install.bat，看到“Installation completed successfully”
+□ 2. 双击03_run_builtin_demo.bat，找到生成的拟合图
+□ 3. 双击02_run_set_demo.bat，选择一个预处理好的.set文件
+□ 4. 打开01_FOOOF输入_平均PSD.csv，确认第一列是频率、第二列是线性功率
+□ 5. 打开02_非周期参数.csv，找到offset和exponent
+□ 6. 打开03_周期峰参数.csv，找到CF、PW和BW
+
+思考题：
+1. 为什么FOOOF不能直接输入原始EEG波形？
+2. 为什么输入功率不能提前转换成dB？
+3. PW为什么不是原始频谱中的绝对功率？
+4. 如果传统α功率升高，但α峰PW不变，可能意味着什么？
